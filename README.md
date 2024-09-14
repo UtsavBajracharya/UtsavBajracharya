@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 <h1 align="center">Hi 👋, I'm Utsav Bajracharya</h1>
 <h3 align="center">A passionate Frontend Web Developer and Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif...">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif...">
 
 - 🔭 I’m currently working on: [portfolio website](https://github.com/UtsavBajracharya/Portfolio-website)
 
