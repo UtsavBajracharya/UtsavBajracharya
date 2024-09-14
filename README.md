@@ -1,23 +1,20 @@
-[![MasterHead](https://i.pinimg.com/originals/a5/a3/b5/a5a3b5fc0e75f4b44551593711ed2039.gif)
-<h1 align="center">Hi👋, I'm Utsav Bajracharya</h1>
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
+<h1 align="center">Hi 👋, I'm Utsav Bajracharya</h1>
 <h3 align="center">A passionate Frontend Web Developer and Designer</h3>
-<img align="right" alt="programming" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif...">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavbajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="utsavbajracharya" /> </p>
+- 🔭 I’m currently working on: [portfolio website](https://github.com/UtsavBajracharya/Portfolio-website)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavbajracharya" alt="utsavbajracharya" /></a> </p>
+- 🌱 I’m currently learning: **MERN Stack**
 
-- 🔭 I’m currently working on [portfolio website](https://github.com/UtsavBajracharya/Portfolio-website)
+- 📫 How to reach me: **utsavbajra619@gmail.com**
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **utsavbajra619@gmail.com**
-
-- ⚡ Fun fact **I love travelling**
+- ⚡ Fun fact: **I love travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/utsav-bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utsav-bajracharya" height="30" width="40" /></a>
+<a href="https://instagram.com/utsavbajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsavbajracharya" height="30" width="40" /></a>
 <a href="https://www.behance.net/utsav bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="utsav bajracharya" height="30" width="40" /></a>
 </p>
 
