@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/a5/a3/b5/a5a3b5fc0e75f4b44551593711ed2039.gif) | width = 100]
+[![MasterHead](https://i.pinimg.com/originals/a5/a3/b5/a5a3b5fc0e75f4b44551593711ed2039.gif)
 <h1 align="center">Hi👋, I'm Utsav Bajracharya</h1>
 <h3 align="center">A passionate Frontend Web Developer and Designer</h3>
-<img align = "center" alt = "programming" width="250" src = "https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="programming" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavbajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="utsavbajracharya" /> </p>
 
