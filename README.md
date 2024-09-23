@@ -3,19 +3,19 @@
 <h3 align="center">A passionate Frontend Web Developer and Designer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif...">
 
-- 🔭 I’m currently working on: [portfolio website](https://github.com/UtsavBajracharya/Portfolio-website)
+- 🔭 I’m currently working on my [portfolio website](https://github.com/UtsavBajracharya/Portfolio-website)
 
-- 🌱 I’m currently learning: **MERN Stack**
+- 🌱 I’m currently a student and learning: **Full Stack Software Development**
 
 - 📫 How to reach me: **utsavbajra619@gmail.com**
 
-- ⚡ Fun fact: **I love travelling**
+- ⚡ Fun fact: **I love to keep learning new stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/utsav-bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utsav-bajracharya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utsav-bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utsav-bajracharya" height="30" width="40" /></a>
 <a href="https://instagram.com/utsavbajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsavbajracharya" height="30" width="40" /></a>
-<a href="https://www.behance.net/utsav bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="utsav bajracharya" height="30" width="40" /></a>
+<a href="[https://www.behance.net/utsav bajracharya](https://www.behance.net/utsavbajracharya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="utsav bajracharya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
