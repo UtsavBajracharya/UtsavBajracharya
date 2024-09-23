@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/utsav-bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utsav-bajracharya" height="30" width="40" /></a>
 <a href="https://instagram.com/utsavbajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsavbajracharya" height="30" width="40" /></a>
-<a href="[https://www.behance.net/utsav bajracharya](https://www.behance.net/utsavbajracharya)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="utsav bajracharya" height="30" width="40" /></a>
+<a href="https://www.behance.net/utsavbajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="utsav bajracharya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
