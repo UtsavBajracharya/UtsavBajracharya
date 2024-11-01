@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my portfolio website<br>📚 I'm currently learning: MERN Stack, Cloud Computing, DevOps Tools<br>🎯 Goals: Become a Full Stack Software Developer<br>🎲 Fun fact: I love to keep learning new stuff</p>
+<p align="left">🔭 I’m currently working on my portfolio website<br>📚 I'm currently learning: MERN Stack, Cloud Computing, DevOps Tools<br>🎯 Goals: Become a Full Stack Software Developer<br>🎲 Fun fact: I love to learn new stuffs</p>
 
 ###
 
